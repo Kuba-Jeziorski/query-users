@@ -15,7 +15,7 @@ A React application for dynamically fetching and displaying user data from the j
 
 Clone the repository and set up the project:
 
-- git clone https://github.com/Kuba-Jeziorski/user-query.git
+- git clone https://github.com/Kuba-Jeziorski/query-users.git
 - cd user-query
 - npm install
 - npm run dev
